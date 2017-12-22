@@ -7,16 +7,16 @@ Quer ser um Front-End foda pra caralho? Então você veio ao lugar certo, a Zup!
 Então vamos começar \o/
 
 ## Conteúdo
-  1. [Vanilla JS](#VanillaJS)
-  1. [Knowledge](#Knowledge)
-  1. [Technologies](#Technologies)
-  1. [Quests](#Quests)
-  1. [Awesome](#Awesome)
+  1. [Vanilla JS](#vanillajs)
+  1. [Knowledge](#knowledge)
+  1. [Technologies](#technologies)
+  1. [Quests](#quests)
+  1. [Awesome](#awesome)
+
+---
 
 
-## JS Puro
-
-- [1.1](#VanillaJS) **Vanilla**
+[1.](#vanillajs) **Vanilla JS**
 
 A primeira coisa que você deve aprender é JS puro, isso mesmo, esqueça frameworks e libs, aprenda o core da linguagem.
 
@@ -29,12 +29,12 @@ Isto vai quebrar um pouco o paradigma de que você precisa de algo além do CORE
 > Será mesmo que preciso importar algo no meu projeto? Hum... Talvez Vanilla já resolva, jovem gafanhoto.
 
 
-**[⬆ back to top](#VanillaJS)**
+**[⬆ back to top](#vanillajs)**
 ___
 
 
 
-[1.1](#Knowledge) **Conhecimento**
+[2.](#knowledge) **Conhecimento**
 
 **Vídeos**
 ---
@@ -74,10 +74,10 @@ Procura os seguintes títulos:
 * Não me faça pensar
 
 
- **[⬆ back to top](#Knowledge)**
+ **[⬆ back to top](#knowledge)**
 ___
 
-[1.1](#Technologies) **Technologies**
+[3.](#technologies) **Technologies**
 
 Bom, o que você deve aprender? Resumidamente, isto aqui:
 
@@ -148,29 +148,28 @@ Agora, por que escrever artigos? Cara, isso vai te fazer estudar muito a respeit
 Ah... estude a teoria, aprenda como funcionada cada ferramenta. Não adianta nada sair fazendo cosias loucamente sem saber como elas funcionam. Mas é claro, aprendeu a teoria? Parabéns =D, agora coloque em prática!
 
 
-**[⬆ back to top](#Technologies)**
+**[⬆ back to top](#technologies)**
 ___
 
 
-[1.1](#Quests) **Quests**
----
+[4.](#quests) **Quests**
+
 
 [NPC](quests.md)
 
 
-**[⬆ back to top](#Quests)**
+**[⬆ back to top](#quests)**
 ___
 
 
-[1.1](#Awesome) **Awesome**
----
+[5.](#awesome) **Awesome**
 
 [Artigos que escrevemos](https://medium.com/dipeex)
 
 [Styled guide](https://github.com/ZupIT/realwave-crm-ui/blob/master/style-guide.md)
 
 
-**[⬆ back to top](#Awesome)**
+**[⬆ back to top](#awesome)**
 ___
 
 
