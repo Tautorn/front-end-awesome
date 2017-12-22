@@ -3,7 +3,7 @@
 # Zup Front-End Awesome () {
 
 
-# Hello Guy, tenho alguams missões para você
+# " Hello Guy, tenho uma missão para você... "
 
 ![Alex](https://forums.tibiawindbot.com/image.php?u=18158&dateline=1419042575)
 
@@ -12,7 +12,7 @@
 ### Pré-Requisitos
 
 - [ ] Configure seu ambiente de desenvolvimento
-- [ ] Configure uma arquitetura React. [secret](https://github.com/facebookincubator/create-react-app)
+- [ ] Configure uma arquitetura React. [!](https://github.com/facebookincubator/create-react-app)
 - [ ] Beba um café
 
 
@@ -34,14 +34,20 @@
 
   **Requisitos não funcionais:**
   - [ ] Criar componentes isolados.
-  - [ ] Adicione um tema nos seus componentes. [secret](https://www.styled-components.com/)
+  - [ ] Adicione um tema nos seus componentes. [!](https://www.styled-components.com/)
   - [ ] Criar rotas para cada módulo
   - [ ] Criar cada de serviço para persistir dados (mock)
-  - [ ] Criar interação entre componentes (disparo de eventos). [secret](https://github.com/reactjs/react-redux)
-  - [ ] Criar testes unitários. [secret](https://facebook.github.io/jest/)
+  - [ ] Criar interação entre componentes (disparo de eventos). [!](https://github.com/reactjs/react-redux)
+  - [ ] Criar testes unitários. [!](https://facebook.github.io/jest/)
 
 
-  > Separe a responsabilidade de cada função.
+  #### Separe a responsabilidade de cada método.
+
+
+  > " hum... onde posso conseguir algumas arquiteturas?!..."
+  [.](https://github.com/Tautorn/boilerplate-react-redux)
+  [.](https://github.com/Tautorn/boilerplate-mobx)
+  [.]()
 
 
 ## Seja bem-vindo a Zup, você é foda!
