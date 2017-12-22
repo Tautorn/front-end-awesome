@@ -15,8 +15,7 @@ Então vamos começar \o/
 
 ---
 
-
-- [1.1](#vanillajs) **Vanilla JS**
+## VanilaJS
 
 A primeira coisa que você deve aprender é JS puro, isso mesmo, esqueça frameworks e libs, aprenda o core da linguagem.
 
@@ -34,11 +33,9 @@ ___
 
 
 
-- [1.1](#knowledge) **Conhecimento**
+## knowledge
 
 **Vídeos**
----
-
 
 - [Desvendando a linguagem JavaScript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 
@@ -49,7 +46,6 @@ ___
 - [ECMA6](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
 
 **Links**
----
 
 - [You Dont Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 
@@ -59,7 +55,6 @@ ___
 
 
 **Livros**
----
 
 Procura os seguintes títulos:
 
@@ -77,7 +72,7 @@ Procura os seguintes títulos:
  **[⬆ back to top](#knowledge)**
 ___
 
-- [1.1](#technologies) **Technologies**
+## Technologies
 
 Bom, o que você deve aprender? Resumidamente, isto aqui:
 
@@ -152,7 +147,7 @@ Ah... estude a teoria, aprenda como funcionada cada ferramenta. Não adianta nad
 ___
 
 
-- [1.1](#quests) **Quests**
+## Quests
 
 
 [NPC](quests.md)
@@ -162,7 +157,7 @@ ___
 ___
 
 
-- [1.1](#awesome) **Awesome**
+## Awesome
 
 [Artigos que escrevemos](https://medium.com/dipeex)
 
