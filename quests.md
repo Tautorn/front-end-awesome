@@ -19,7 +19,7 @@
 ### Problema
 
 #### Criar uma estrutura de reembolso.
-  **Introdução:** É necessário criar um sistema onde o usuário possa slicitar reembolso de valores gastos.
+  **Introdução:** É necessário criar um sistema onde o usuário possa solicitar reembolso de valores gastos.
 
   **Requisitos funcionais:**
   - [ ] Informar o que foi gasto
