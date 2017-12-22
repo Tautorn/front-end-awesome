@@ -7,7 +7,7 @@ Quer ser um Front-End foda pra caralho? Então você veio ao lugar certo, a Zup!
 Então vamos começar \o/
 
 ## Conteúdo
-  1. [Vanilla JS](#vanillajs)
+  1. [Vanilla JS](#VanillaJS)
   1. [Knowledge](#knowledge)
   1. [Technologies](#technologies)
   1. [Quests](#quests)
@@ -15,7 +15,7 @@ Então vamos começar \o/
 
 ---
 
-## VanilaJS
+## VanillaJS
 
 A primeira coisa que você deve aprender é JS puro, isso mesmo, esqueça frameworks e libs, aprenda o core da linguagem.
 
@@ -28,7 +28,7 @@ Isto vai quebrar um pouco o paradigma de que você precisa de algo além do CORE
 > Será mesmo que preciso importar algo no meu projeto? Hum... Talvez Vanilla já resolva, jovem gafanhoto.
 
 
-**[⬆ back to top](#vanillajs)**
+**[⬆ back to top](#VanillaJS)**
 ___
 
 
@@ -114,7 +114,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * HTML 5
    * Semântica
 1. Acessibilidade
-   * [e-MAG](http://emag.governoeletronico.gov.br/)
+   * [e-MAG](http://emag.governoeletronico.gov.br/) (**plus**)
 1. SEO
 1. Performance
 1. Controle de versão
