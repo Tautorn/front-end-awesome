@@ -101,7 +101,8 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * GraphQL (**plus**)
    * Design Patterns
    * Programação funcional (**plus**)
-   * eslint
+   * [eslint](https://github.com/airbnb/javascript)
+   * React Native (**plus**)
    * ~~jQuery~~ (**pelo amor de Deus, esqueça Jquery, foi bom enquanto durou...**)
 1. CSS in JS
    * Styled Components
@@ -111,7 +112,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * Grid
    * Design Responsivo
    * Pré Processadores
-   * SASS
+     * SASS
 1. Gerenciador de Pacotes
    * Webpack
 1. HTML
@@ -119,7 +120,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * HTML 5
    * Semântica
 1. Acessibilidade
-   * EMAG
+   * [e-MAG](http://emag.governoeletronico.gov.br/)
 1. SEO
 1. Performance
 1. Controle de versão
@@ -129,6 +130,9 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * BDD
    * Jest (**hot**)
 1. UX/UI (**plus**)
+1. Ágil
+   * Scrum
+   * Kanban
 
 1. **Inglês** :)
 1. **Escreva artigos**
