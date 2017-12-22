@@ -45,9 +45,9 @@
 
 
   > " hum... onde posso conseguir algumas arquiteturas?!..."
+  [.](https://github.com/Tautorn/react-redux-light)
   [.](https://github.com/Tautorn/boilerplate-react-redux)
   [.](https://github.com/Tautorn/boilerplate-mobx)
-  [.]()
 
 
 ## Seja bem-vindo a Zup, você é foda!
