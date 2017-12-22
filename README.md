@@ -55,6 +55,8 @@ ___
 
 - [JS the Right Way](http://jstherightway.org/pt-br/)
 
+- [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)
+
 
 **Livros**
 ---
