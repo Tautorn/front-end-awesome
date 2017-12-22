@@ -77,61 +77,64 @@ Bom, o que você deve aprender? Resumidamente, isto aqui:
 
 Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é gigantesco, então vamos listar algumas tecnoligias que você deve aprender, são elas:
 
-* JS
-   * React v15.6
-   * React v16.1.1
-   * Redux
-   * Redux Saga
-   * Immutable
-   * ECMA 5
-   * ECMA 6
-   * React Router v3.* / 4.0
-   * GraphQL (**plus**)
-   * Design Patterns
-   * jQuery (**pelo amor de Deus, esqueça Jquery, foi bom enquanto durou...**)
-* CSS in JS
-   * Styled Components
-* CSS
-  * CSS 3
-  * Flex box
-  * Grid
-  * Media query
-  * Design Responsivo
-  * Pré Processadores
-    * SASS
-* Gerenciador de Pacotes
-  * Webpack
-* HTML
-  *
-* Acessibilidade
-  * EMAG
-* SEO
-* Performance
-* Controle de versão
-  * GIT
-* Testes
-  * TDD
-  * BDD
-* UX/UI (**plus**)
+1. JS
+   1. React v15.6
+   1. React v16.1.1
+   1. Redux
+   1. Redux Saga
+   1. Redux Form
+   1. Immutable (**plus**)
+   1. ECMA 5
+   1. ECMA 6
+   1. React Router v3.* / 4.0
+   1. GraphQL (**plus**)
+   1. Design Patterns
+   1. Programação funcional (**plus**)
+   1. eslint
+   1. ~~jQuery~~ (**pelo amor de Deus, esqueça Jquery, foi bom enquanto durou...**)
+1. CSS in JS
+   1. Styled Components
+1. CSS
+   1. CSS 3
+   1. Flex box
+   1. Grid
+   1. Design Responsivo
+   1. Pré Processadores
+   1. SASS
+1. Gerenciador de Pacotes
+   1. Webpack
+1. HTML
+   1. ###### HTML 4 **_hehehe brincadeira, suma daqui_**
+   1. HTML 5
+   1. Semântica
+1. Acessibilidade
+   1. EMAG
+1. SEO
+1. Performance
+1. Controle de versão
+   1. GIT
+1. Testes
+   1. TDD
+   1. BDD
+   1. Jest (**hot**)
+1. UX/UI (**plus**)
 
-* **Inglês** :)
-* **Escreva artigos**
+1. **Inglês** :)
+1. **Escreva artigos**
 
 Estes dois itens pontos são muito importantes. Primeiro o inglês, 90% do material que você vai encontrar (de boa qualidade) está em inglês, vídeos, artigos, documentação, etc. Você não precisa ser fluente mas saber ler e assistir vídeos vai te ajudar muito.
 
-Agora, por que escrever artigos? Cara, isso vai te fazer estudar muito a respeito do que você quer falar, vai abrir o
+Agora, por que escrever artigos? Cara, isso vai te fazer estudar muito a respeito do que você quer falar, aprender é fácil, o difícil é transmitir conhecimento.
 
 > Não pense apenas no código, você escreve para outra pessoa, não para uma máquina.
 
 
-
-
-
+Ah... estude a teoria, aprenda como funcionada cada ferramenta. Não adianta nada sair fazendo cosias loucamente sem saber como elas funcionam. Mas é claro, aprendeu a teoria? Parabéns =D, agora coloque em prática!
 
 
 **[⬆ back to top](#Tecnologies)**
----
 ___
+
 
 [1.1](#Quests) **Quests**
 ---
