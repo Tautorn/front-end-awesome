@@ -71,8 +71,7 @@ Procura os seguintes títulos:
 * Node JS
 * Fundamentação da Metafísica dos Costume Immanuel Kant (**heheh**)
 * Test-Driven Development
-
-
+* Não me faça pensar
 
 
  **[⬆ back to top](#Knowledge)**
@@ -105,7 +104,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * React Native (**plus**)
    * ~~jQuery~~ (**pelo amor de Deus, esqueça Jquery, foi bom enquanto durou...**)
 1. CSS in JS
-   * Styled Components
+   * [Styled Components](https://medium.com/dipeex/styled-components-parte-1-3-a0ba5d9e9854)
 1. CSS
    * CSS 3
    * Flex box
@@ -113,7 +112,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * Design Responsivo
    * Pré Processadores
      * SASS
-1. Gerenciador de Pacotes
+1. Bundler
    * Webpack
 1. HTML
    * ###### HTML 4 **_hehehe brincadeira, suma daqui_**
@@ -156,12 +155,20 @@ ___
 [1.1](#Quests) **Quests**
 ---
 
+[NPC](quests.md)
+
 
 **[⬆ back to top](#Quests)**
 ___
 
+
 [1.1](#Awesome) **Awesome**
 ---
+
+[Artigos que escrevemos](https://medium.com/dipeex)
+
+[Styled guide](https://github.com/ZupIT/realwave-crm-ui/blob/master/style-guide.md)
+
 
 **[⬆ back to top](#Awesome)**
 ___
