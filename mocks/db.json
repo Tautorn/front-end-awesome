@@ -1,0 +1,421 @@
+{
+  "refunds": [
+    {
+      "title": "Uber",
+      "value": "19.90",
+      "account_id": "1",
+      "comment": "Uber do tamboré até alphaville",
+      "status": "APROVADO",
+      "id": 1
+    },
+    {
+      "title": "Uber",
+      "value": "19.90",
+      "account_id": "1",
+      "comment": "Uber do tamboré até alphaville",
+      "status": "APROVADO",
+      "id": 2
+    },
+    {
+      "title": "Uber",
+      "value": "19.90",
+      "account_id": "1",
+      "comment": "Uber do tamboré até alphaville",
+      "status": "REEMBOLSADO",
+      "id": 3
+    },
+    {
+      "title": "Uber",
+      "value": "19.90",
+      "account_id": "1",
+      "comment": "Uber do tamboré até alphaville",
+      "status": "NEGADO",
+      "id": 4
+    },
+    {
+      "title": "Uber",
+      "value": "19.90",
+      "account_id": "1",
+      "comment": "Uber do tamboré até alphaville",
+      "status": "APROVADO",
+      "id": 5
+    }
+  ],
+  "accounts": [
+    {
+      "bank_code": "1",
+      "bank_agency": "1611",
+      "bank_account": "46149-4",
+      "comment": "conta salario",
+      "id": 1
+    },
+    {
+      "bank_code": "077",
+      "bank_agency": "0001",
+      "bank_account": "19823-2",
+      "comment": "Banco intermedium, favor só realizar TED",
+      "id": 2
+    }
+  ],
+  "login": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruno Benicio Do Nascimento",
+      "cpf": "01886706611",
+      "rg": "19511685",
+      "email": "bruno.nascimento@zup.com.br",
+      "password": "123123123"
+    }
+  ],
+  "banks": [
+    {
+      "code": "001",
+      "name": "Banco do Brasil",
+      "short_name": "BB",
+      "jurisdiction": "Federal",
+      "website": "www.bb.com.br"
+    },
+    {
+      "code": "002",
+      "name": "Banco Central do Brasil",
+      "short_name": "BACEN",
+      "jurisdiction": "Federal",
+      "website": "www.bcb.gov.br"
+    },
+    {
+      "code": "003",
+      "name": "Banco da Amazônia",
+      "short_name": "BASA",
+      "jurisdiction": "Federal",
+      "website": "www.basa.com.br"
+    },
+    {
+      "code": "004",
+      "name": "Banco do Nordeste do Brasil",
+      "short_name": "BNB",
+      "jurisdiction": "Federal",
+      "website": "www.bnb.gov.br"
+    },
+    {
+      "code": "007",
+      "name": "Banco Nacional de Desenvolvimento Econômico e Social",
+      "short_name": "BNDES",
+      "jurisdiction": "Federal",
+      "website": "www.bndes.gov.br"
+    },
+    {
+      "code": "104",
+      "name": "Caixa Econômica Federal",
+      "short_name": "CEF",
+      "jurisdiction": "Federal",
+      "website": "www.caixa.gov.br"
+    },
+    {
+      "code": "046",
+      "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+      "short_name": "BRDE",
+      "jurisdiction": "Federal",
+      "website": "www.brde.com.br"
+    },
+    {
+      "code": "023",
+      "name": "Banco de Desenvolvimento de Minas Gerais",
+      "short_name": "BDMG",
+      "jurisdiction": "Estadual",
+      "website": "www.bdmg.mg.gov.br"
+    },
+    {
+      "code": "070",
+      "name": "Banco de Brasília",
+      "short_name": "BRB",
+      "jurisdiction": "Distrital",
+      "website": "www.brb.com.br"
+    },
+    {
+      "code": "047",
+      "name": "Banco do Estado de Sergipe",
+      "short_name": "Banese",
+      "jurisdiction": "Estadual",
+      "website": "www.banese.com.br"
+    },
+    {
+      "code": "021",
+      "name": "Banco do Estado do Espírito Santo",
+      "short_name": "Banestes",
+      "jurisdiction": "Estadual",
+      "website": "www.banestes.com.br"
+    },
+    {
+      "code": "037",
+      "name": "Banco do Estado do Pará",
+      "short_name": "Banpará",
+      "jurisdiction": "Estadual",
+      "website": "www.banparanet.com.br"
+    },
+    {
+      "code": "041",
+      "name": "Banco do Estado do Rio Grande do Sul",
+      "short_name": "Banrisul",
+      "jurisdiction": "Estadual",
+      "website": "www.banrisul.com.br"
+    },
+    {
+      "code": "075",
+      "name": "Banco ABN Amro S.A.",
+      "short_name": "ABN",
+      "website": "www.abnamro.com.br"
+    },
+    {
+      "code": "025",
+      "name": "Banco Alfa",
+      "short_name": "Alfa",
+      "website": "www.alfanet.b.br"
+    },
+    {
+      "code": "719",
+      "name": "Banco Banif",
+      "short_name": "Banif",
+      "website": "www.bancobanif.com.br"
+    },
+    {
+      "code": "107",
+      "name": "Banco BBM",
+      "short_name": "BBM",
+      "website": "www.bancobbm.com.br"
+    },
+    {
+      "code": "318",
+      "name": "Banco BMG",
+      "short_name": "BMG",
+      "website": "www.bancobmg.com.br"
+    },
+    {
+      "code": "218",
+      "name": "Banco Bonsucesso",
+      "short_name": "Bonsucesso",
+      "website": "www.bancobonsucesso.com.br"
+    },
+    {
+      "code": "208",
+      "name": "Banco BTG Pactual",
+      "short_name": "BTG",
+      "website": "www.btgpactual.com.br"
+    },
+    {
+      "code": "263",
+      "name": "Banco Cacique",
+      "short_name": "Cacique",
+      "website": "www.bancocacique.com.br"
+    },
+    {
+      "code": "745",
+      "name": "Banco Citibank",
+      "short_name": "Citibank",
+      "website": "www.citibank.com.br"
+    },
+    {
+      "code": "721",
+      "name": "Banco Credibel",
+      "short_name": "Credibel",
+      "website": "www.credibel.com.br"
+    },
+    {
+      "code": "229",
+      "name": "Banco Cruzeiro do Sul",
+      "short_name": "Cruzeiro do Sul",
+      "website": "www.bcsul.com.br"
+    },
+    {
+      "code": "707",
+      "name": "Banco Daycoval",
+      "short_name": "Daycoval",
+      "website": "www.bancodaycoval.com.br"
+    },
+    {
+      "code": "265",
+      "name": "Banco Fator",
+      "short_name": "Fator",
+      "website": "www.bancofator.com.br"
+    },
+    {
+      "code": "224",
+      "name": "Banco Fibra",
+      "short_name": "Fibra",
+      "website": "www.bancofibra.com.br"
+    },
+    {
+      "code": "121",
+      "name": "Banco Gerador",
+      "short_name": "Gerador",
+      "website": "www.bancogerador.com.br"
+    },
+    {
+      "code": "612",
+      "name": "Banco Guanabara",
+      "short_name": "Guanabara",
+      "website": "www.bancoguanabara.com.br"
+    },
+    {
+      "code": "604",
+      "name": "Banco Industrial do Brasil",
+      "short_name": "BI",
+      "website": "www.bancoindustrial.com.br"
+    },
+    {
+      "code": "320",
+      "name": "Banco Industrial e Comercial",
+      "short_name": "BICBANCO",
+      "website": "www.bicbanco.com.br"
+    },
+    {
+      "code": "630",
+      "name": "Banco Intercap",
+      "short_name": "Intercap",
+      "website": "www.intercap.com.br"
+    },
+    {
+      "code": "077",
+      "name": "Banco Intermedium",
+      "short_name": "Intermedium",
+      "website": "www.intermedium.com.br"
+    },
+    {
+      "code": "M09",
+      "name": "Banco Itaucred Financiamentos",
+      "short_name": "Itaucred Financiamentos",
+      "website": "www.itaucred.com.br"
+    },
+    {
+      "code": "389",
+      "name": "Banco Mercantil do Brasil",
+      "short_name": "BMB",
+      "website": "www.mercantildobrasil.com.br"
+    },
+    {
+      "code": "746",
+      "name": "Banco Modal",
+      "short_name": "Modal",
+      "website": "www.modal.com.br"
+    },
+    {
+      "code": "738",
+      "name": "Banco Morada",
+      "short_name": "Morada",
+      "website": "www.bancomorada.com.br"
+    },
+    {
+      "code": "623",
+      "name": "Banco Panamericano",
+      "short_name": "Panamericano",
+      "website": "www.panamericano.com.br"
+    },
+    {
+      "code": "611",
+      "name": "Banco Paulista",
+      "short_name": "Paulista",
+      "website": "www.bancopaulista.com.br"
+    },
+    {
+      "code": "643",
+      "name": "Banco Pine",
+      "short_name": "Pine",
+      "website": "www.pine.com.br"
+    },
+    {
+      "code": "638",
+      "name": "Banco Prosper",
+      "short_name": "Prosper",
+      "website": "www.bancoprosper.com.br"
+    },
+    {
+      "code": "654",
+      "name": "Banco Renner",
+      "short_name": "Renner",
+      "website": "www.bancorenner.com.br"
+    },
+    {
+      "code": "453",
+      "name": "Banco Rural",
+      "short_name": "Rural",
+      "website": "www.rural.com.br"
+    },
+    {
+      "code": "422",
+      "name": "Banco Safra",
+      "short_name": "Safra",
+      "website": "www.safra.com.br"
+    },
+    {
+      "code": "033",
+      "name": "Banco Santander",
+      "short_name": "Santander",
+      "website": "www.santander.com.br"
+    },
+    {
+      "code": "637",
+      "name": "Banco Sofisa",
+      "short_name": "Sofisa",
+      "website": "www.sofisa.com.br"
+    },
+    {
+      "code": "655",
+      "name": "Banco Votorantim",
+      "short_name": "BV",
+      "website": "www.bancovotorantim.com.br"
+    },
+    {
+      "code": "237",
+      "name": "Bradesco",
+      "short_name": "Bradesco",
+      "website": "www.bradesco.com.br"
+    },
+    {
+      "code": "399",
+      "name": "HSBC Bank Brasil",
+      "short_name": "HSBC",
+      "website": "www.hsbc.com.br"
+    },
+    {
+      "code": "263",
+      "name": "Banco Caixa Geral",
+      "short_name": "Caixa geral"
+    },
+    {
+      "code": "505",
+      "name": "Banco Credit Suisse",
+      "short_name": "",
+      "website": "www.credit-suisse.com.br"
+    },
+    {
+      "code": "184",
+      "name": "Banco Itaú BBA",
+      "short_name": "Itaú BBA",
+      "website": "www.itaubba.com.br"
+    },
+    {
+      "code": "479",
+      "name": "Banco ItaúBank",
+      "short_name": "ItáuBank",
+      "website": "www.itaubank.com.br"
+    },
+    {
+      "code": "741",
+      "name": "Banco Ribeirão Preto",
+      "short_name": "BRP",
+      "website": "http://www.brp.com.br"
+    },
+    {
+      "code": "082",
+      "name": "Banco Topázio",
+      "short_name": "Topázio",
+      "website": "www.bancotopazio.com.br"
+    },
+    {
+      "code": "341",
+      "name": "Itaú Unibanco",
+      "short_name": "Itaú",
+      "website": "www.itau.com.br"
+    }
+  ]
+}
