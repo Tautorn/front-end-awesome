@@ -83,15 +83,15 @@ Bom, o que você deve aprender? Resumidamente, isto aqui:
 Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é gigantesco, então vamos listar algumas tecnoligias que você deve aprender, são elas:
 
 1. JS
-   * React v15.6
-   * React v16.1.1
+   * React v16.7
    * Redux
    * Redux Saga
-   * Redux Form
+   * Formik
    * Immutable (**plus**)
    * ECMA 5
    * ECMA 6
-   * React Router v3.* / 4.0
+   * ECMA 7
+   * React Router v4.0
    * GraphQL (**plus**)
    * Design Patterns
    * Programação funcional (**plus**)
@@ -107,6 +107,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
    * Design Responsivo
    * Pré Processadores
      * SASS
+   * Crossbrowser
 1. Bundler
    * Webpack
 1. HTML
@@ -122,7 +123,7 @@ Mas sabemos que não é tão simples, o ecossistema de um developer Front-End é
 1. Testes
    * TDD
    * BDD
-   * Jest (**hot**)
+   * Jest
 1. UX/UI (**plus**)
 1. Ágil
    * Scrum
